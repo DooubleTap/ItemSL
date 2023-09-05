@@ -1,6 +1,6 @@
 return {
 	['testburger'] = {
-		label = 'Burger Test',
+		label = 'Burger Tester',
 		weight = 220,
 		degrade = 60,
 		client = {
